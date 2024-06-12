@@ -1,8 +1,8 @@
 # MM_Hydra_Hub
 thanks for using!
-script created by Demogorgon
-Our Official Discord Server: https://discord.gg/JbyWu8vaZU
-Also our partner: https://discord.com/invite/X2dVte9r2d
+script created by Demogorgon.
+Our official discord server: https://discord.gg/JbyWu8vaZU.
+Also our partner: https://discord.com/invite/X2dVte9r2d.
 
 ██╗░░██╗██╗░░░██╗██████╗░██████╗░░█████╗░  ██╗░░██╗██╗░░░██╗██████╗░
 ██║░░██║╚██╗░██╔╝██╔══██╗██╔══██╗██╔══██╗  ██║░░██║██║░░░██║██╔══██╗
